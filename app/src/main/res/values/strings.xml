@@ -1,3 +1,7 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">AppDuAnTotNghiep</string>
+    <string name="hello_world">Hello World</string>
+    <string name="quantv">QuanTV</string>
+    <string name="shop_online">Shop Online</string>
+    <string name="todo">TODO</string>
 </resources>
