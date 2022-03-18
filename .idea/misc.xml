@@ -4,9 +4,17 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.26481481481481484" />
+        <entry key="app/src/main/res/drawable/rounded_button.xml" value="0.181" />
+        <entry key="app/src/main/res/drawable/rounded_edittext.xml" value="0.1425" />
         <entry key="app/src/main/res/drawable/splashbackground.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_for_get_pass.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_login2.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19701086956521738" />
+        <entry key="app/src/main/res/layout/activity_signin.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.19270833333333334" />
+        <entry key="app/src/main/res/layout/botron_edittext.xml" value="0.17239583333333333" />
+        <entry key="app/src/main/res/layout/uongvien_goctron.xml" value="0.17239583333333333" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1425" />
       </map>
     </option>
   </component>
